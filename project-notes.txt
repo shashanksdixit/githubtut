@@ -1,0 +1,5 @@
+# Project Notes
+
+## Version 1.0
+- Initial setup complete
+- Team: Alice, Bob, Carol
